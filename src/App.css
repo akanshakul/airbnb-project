@@ -1,0 +1,467 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Inter:wght@300&display=swap');
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.header{
+  height: 70px;
+  width: 100%;
+  background-color: whitesmoke;
+  box-shadow: 1px 1px 1px gray;
+  float: left;
+}
+.he1
+{
+  height: 100%;
+  width: 30%;
+  float: left;
+  background-color:whitesmokes
+}
+.he2
+{
+  height: 50px;
+  margin:12px
+}
+.a1
+{
+  height: 50%;
+  width: 40%;
+  float: left;
+  background-color:whitesmoke; 
+  margin-top: 22px;
+}
+.a2
+{
+  font-size: 17px;
+   
+}
+.a3
+{
+  font-size: 17px;
+ font-family: sans-serif
+}
+.a4
+{
+  font-size: 17px
+}
+.b1
+{
+  height: 100%;
+  width: 30%;
+  float: left;
+  background-color: ;
+}
+.b2
+{
+  height: 50px;
+   margin-left:80% ;
+}
+.header2
+{
+  height: 70px;
+		width: 100%;
+		background-color: whitesmoke;
+		box-shadow: 1px 1px 1px gray;
+	
+
+}
+.c1
+{
+  height:100%;
+  width:30%;
+  float:left; 
+  background-color: whitesmoke;
+  
+
+}
+.c2
+{
+   margin-top:16px; 
+  margin-left: 32px;
+   height:30px ;
+}
+.c3
+{
+ margin-top:16px;  
+margin-left:12px ;
+height:30px;
+
+}
+.d2
+{
+   float: left;   
+   height: 40px; 
+   width: 200px; 
+   margin-top: 10px; 
+   border-radius: 10px;
+    border: none;
+    margin-right: 10px;
+    text-align: center;
+
+}
+.d1
+{
+   height:100%; 
+   width:40%; 
+  float:left; 
+  background-color: whitesmoke;
+}
+.d3
+{
+   float: left; 
+   height: 40px;
+   width: 130px;
+   margin-top: 10px;
+   margin-right: 10px;
+    border-radius: 10px; 
+    border: none;
+    background-color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+.d4
+{
+  float:left;
+
+}
+.d5
+{
+  height:35px; 
+  width:35px;
+  margin-top:11px;
+  float: left;
+   background-color: white;
+   border: none;
+}
+.d6
+{
+  height:35px; 
+  width:90px;
+  margin-top:11px;
+  float: left;
+   background-color: white;
+   border: none;
+   
+}
+.d7
+{
+  height:35px;
+   width:35px;
+   margin-top:11px;
+   float: left; 
+   background-color: white;
+   border: none;
+}
+.d8
+{
+  height:70%;
+  width:30%;
+  float:right;
+   background-color:whitesmoke ;
+   /* margin-top: 120px;  */
+}
+.d9
+{
+  margin-left: 350px;
+   margin-top: 16px; 
+   height:35px;
+}
+.main
+{
+ height: 1300px;
+ width: 100%;
+ background-color:whitesmoke;
+}
+.e1
+{
+  margin-top: 1px;
+}
+.e2
+{
+  margin-top: 8px;
+}
+.e3
+{
+  margin-left: 25px;
+   margin-top: 30px ;
+   height:30px;
+    width:30px;
+}
+.e4
+{
+  margin-left: 25px;
+   margin-top: 30px ;
+   height:30px;
+    width:30px;
+}
+.e5
+{
+  margin-left: 25px;
+   margin-top: 30px ;
+   height:30px;
+    width:30px;
+}
+.e6
+{
+  margin-left: 25px;
+   margin-top: 30px ;
+   height:30px;
+    width:30px;
+}
+.e7
+{
+  margin-left: 25px;
+   margin-top: 30px ;
+   height:30px;
+    width:30px;
+}
+.e8
+{
+  margin-left: 25px;
+   margin-top: 30px ;
+   height:30px;
+    width:30px;
+}
+.e9
+{
+  margin-left: 25px;
+   margin-top: 30px ;
+   height:30px;
+    width:30px;
+}
+.e10
+{
+  margin-left: 25px;
+   margin-top: 30px ;
+   height:30px;
+    width:30px;
+}
+.e11
+{
+  margin-left: 25px;
+   margin-top: 30px ;
+   height:30px;
+    width:30px;
+}
+.e12
+{
+  margin-left: 25px;
+   margin-top: 30px ;
+   height:30px;
+    width:30px;
+}
+.e13
+{
+  margin-left: 25px;
+   margin-top: 30px ;
+   height:30px;
+    width:30px;
+}
+.e14
+{
+  margin-left: 25px;
+   margin-top: 30px ;
+   height:30px;
+    width:30px;
+}
+.e15
+{
+  margin-left: 25px;
+   margin-top: 30px ;
+   height:30px;
+    width:30px;
+}
+.e16
+{
+  margin-left: 25px;
+   margin-top: 30px ;
+   height:30px;
+    width:30px;
+}
+.e17
+{
+  margin-left: 25px;
+   margin-top: 30px ;
+   height:30px;
+    width:30px;
+}
+.f1
+{
+  margin-left: 80px;
+  margin-top: -30px ;
+  color: black;
+}
+.f2
+{
+  margin-left: 80px;
+  margin-top: -30px ;
+  color: black;
+}
+.f3
+{
+  margin-left: 80px;
+  margin-top: -30px ;
+  color: black;
+}
+.f4
+{
+  margin-left: 80px;
+  margin-top: -30px ;
+  color: black;
+}
+.f5
+{
+  margin-left: 80px;
+  margin-top: -30px ;
+  color: black;
+}
+.f6
+{
+  margin-left: 80px;
+  margin-top: -30px ;
+  color: black;
+}
+.f7
+{
+  margin-left: 80px;
+  margin-top: -30px ;
+  color: black;
+}
+.f8
+{
+  margin-left: 80px;
+  margin-top: -30px ;
+  color: black;
+}
+.f9
+{
+  margin-left: 80px;
+  margin-top: -30px ;
+  color: black;
+}
+.f10
+{
+  margin-left: 80px;
+  margin-top: -30px ;
+  color: black;
+}
+.f11
+{
+  margin-left: 80px;
+  margin-top: -30px ;
+  color: black;
+}
+.f12
+{
+  margin-left: 80px;
+  margin-top: -30px ;
+  color: black;
+}
+.f13
+{
+  margin-left: 80px;
+  margin-top: -30px ;
+  color: black;
+}
+.f14
+{
+  margin-left: 80px;
+  margin-top: -30px ;
+  color: black;
+}
+.f15
+{
+  margin-left: 80px;
+  margin-top: -30px ;
+  color: black;
+}
+nav:hover
+ {
+   transition: all 0.8s ease;
+    width: 200px;
+    height:  px;
+  }
+  nav{
+    position: absolute;
+    top: 21%;
+    bottom: 0;
+    height: 200%;
+    background: whitesmoke;
+    width: 80px;
+    overflow: hidden;
+    transition: width 0.2s linear;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+  }
+
+   #r1
+   {
+    height:400px;
+     width:20% ; 
+     float:left; 
+     background-color:whitesmoke;
+     border-radius: 10px;
+     margin: 1.25%; 
+      margin-left: 110px; 
+   }
+   .r2
+   {
+    border-radius: 20px 20px 0px 0px; 
+    height:55%;
+     width:100%;
+   }
+   .item
+  {
+  	border-radius: 50px;
+  }
+  .item:hover
+  {
+  	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.1);
+  }
+  #r15
+  {
+    height:400px; 
+    width:20.5% ; 
+    float:left;
+     background-color:whitesmoke;
+     border-radius: 10px;
+     margin: 1.25%;
+  }
